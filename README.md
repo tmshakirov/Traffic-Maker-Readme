@@ -1,2 +1,2 @@
 # Traffic-Maker-Readme
-Hypercasual game for Android/iOS developed on Unity
+Traffic Maker is a hypercasual game for Android/iOS developed on Unity in 2 days
